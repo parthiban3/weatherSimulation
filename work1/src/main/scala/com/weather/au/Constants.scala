@@ -15,6 +15,8 @@ object Constants {
   val monEndInx:Int=7
   val timeStartInx:Int=0
   val timeEndInx:Int=19
+  val tStartInx:Int=11
+  val tEndInx:Int=13
   val locSyd:String="Sydney"
   val locTow:String="Townsville"
   val locAde:String="Adelaide"
